@@ -1,4 +1,4 @@
-# OLYMPUS TECH 
+# REPORT
 ## Introduction 
 The purpose of this project was to analyze thedata from FITS file (Flexible Image transport System).
 
